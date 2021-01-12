@@ -5,5 +5,5 @@ Lanes detection using Hough Transform in OpenCV
 Test image:
 <p align="center"><img src="https://github.com/dioz95/lanes-detection-hough-transform/blob/main/test_image.jpg" width=500/></p>
 
-Output image:
+Output (blended) image:
 <p align="center"><img src="https://github.com/dioz95/lanes-detection-hough-transform/blob/main/output.jpg" width=500/></p>
